@@ -1,4 +1,8 @@
 p{
     color: red;
     background: gray;
+    
+}
+p:hover{
+    color: palegoldenrod;
 }
