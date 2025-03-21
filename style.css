@@ -6,3 +6,9 @@ p{
 p:hover{
     color: palegoldenrod;
 }
+button{
+    width: 200px;
+    padding: 10px;
+    
+
+}
